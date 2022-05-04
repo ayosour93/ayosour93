@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayosour93
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning cybersecurity and networking
-- 💞️ I’m looking to collaborate on ethical hacking im new to this so if you wanna help i highly aprreciaten it 
+- 💞️ I’m looking to collaborate on ethical hacking I'm new to this so if you wanna help i highly aprreciaten it 
 - 📫 you can reach to reach me @ bakaryc23@icloud.com
 
 <!---
